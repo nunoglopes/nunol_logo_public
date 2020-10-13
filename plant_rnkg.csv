@@ -1,0 +1,69 @@
+﻿Country,Name,SAP ID,Total,Complexity,Ebitda,Effort
+United States,Tabler Station,L090,0.81,0.145,0.5,0.165
+United States,Chicago,L030,0.83,0.16,0.5,0.1675
+United States,Hazelton,L100,0.69,0.16,0.4,0.125
+United States,Lima,L130,0.57,0.105,0.3,0.165
+United States,Litiz,Litiz,0.59,0.1275,0.3,0.165
+United States,Syracuse,L010,0.31,0.07,0.2,0.04
+United States,Plainfield,L040,0.50,0.115,0.3,0.0825
+United States,Racine II,L051,0.35,0.125,0.1,0.1225
+United States,Kansas City,L060,0.52,0.1375,0.3,0.0825
+United States,Fort Worth,L070,0.26,0.08,0.1,0.0825
+United States,Joliet,L080,0.26,0.08,0.1,0.0825
+United States,Minster,L110,0.20,0.0125,0.1,0.0825
+United States,Dallas,L120,0.22,0.035,0.1,0.0825
+Canada,Edmonton,K011,0.34,0.1025,0.2,0.04
+Canada,CA Burnaby,K012,0.26,0.0225,0.2,0.04
+Canada,Vaudreuil-Dorion,K013,0.21,0.0225,0.1,0.0825
+Mexico,México - Toluca,M910,0.26,0.0575,0.2,0
+Mexico,Mexico - San Luis,M920,0.30,0.1025,0.2,0
+Brasil,Araras in House,G020,0.28,0.08,0.2,0
+Brasil,Raposo Tavares,G040,0.26,0.0575,0.2,0
+Brasil,Pará de Minas,G050,0.18,0.08,0.1,0
+Brasil,SÃO CRISTOVÃO ,G080,0.14,0.035,0.1,0
+Brasil,Araras Ambev,G090,0.30,0.1025,0.2,0
+Brasil,Carambeí,G100,0.16,0.0575,0.1,0
+Brasil,Amparo,G120,0.24,0.035,0.2,0
+England,Thurrock,D120,0.24,0.1025,0.1,0.04
+England,Leeds Ltd,D140,0.30,0.0575,0.2,0.04
+England,Coleford,D170,0.22,0.08,0.1,0.04
+England,Dumfries,D180,0.26,0.08,0.1,0.0825
+England,Beads,D190,0.11,0.0225,0,0.0825
+England,Dumfries Diageo,D200,0.08,0,0,0.0825
+England,Wrexham,D210,0.14,0,0.1,0.0425
+Netherland ,Elst BV,H010,0.42,0.1825,0.2,0.04
+Netherland ,Zoetermeer,H011,0.16,0.08,0,0.0825
+France,Lons,E011,0.04,0.0225,0,0.02
+France,Vienne,E031,0.14,0.0225,0.1,0.02
+France,Cambrai,E040,0.22,0.1025,0.1,0.02
+France,Campbon,E050,0.14,0.0225,0.1,0.02
+France,Libramont,Q010,0.16,0.035,0.1,0.02
+Italy,Pomezia,F010,0.25,0.125,0.1,0.02
+Spain,Guadalajara,C111,0.24,0.08,0.1,0.0625
+Spain,Mataro II,C121,0.00,0,0,0
+Spain,Tenerife,C140,0.06,0,0,0.0625
+Spain,Brenes,C150,0.23,0.0225,0.1,0.105
+Spain,Vilches,C160,0.23,0.0225,0.1,0.105
+Spain,Andujar,C180,0.13,0.0225,0,0.105
+Spain,Torija,C300,0.26,0.0675,0,0.19
+Portugal,S. Iria,B060,0.23,0.125,0,0.105
+Portugal,VACARIÇA,B301,0.21,0,0.1,0.105
+Portugal,Castelo Branco,B303,0.09,0.0225,0,0.0625
+Portugal,Castelo Vide,B304,0.11,0,0,0.105
+Portugal,Estarreja,B050,0.15,0.09,0,0.0625
+Portugal,Oliveira Azemeis,B305,0.06,0,0,0.0625
+Portugal,Ladeira,B306,0.11,0,0,0.105
+Portugal,Mealhada,B309,0.41,0.1475,0.2,0.0625
+Portugal,Pedras Salgadas,B311,0.02,0,0,0.02
+Portugal,Barreiro,B312,0.16,0,0.1,0.0625
+Portugal,Guarda,B220,0.13,0.0675,0,0.0625
+Portugal,Abrantes,B314,0.02,0,0,0.02
+Portugal,Mealhada Clear,B319,0.00,0,0,0
+Poland,GORZÓW WIELKOPOLSKI,T012,0.07,0.0125,0,0.06
+Poland,POLSKA,T010,0.03,0.0125,0,0.02
+Poland,Raciborz,T011,0.03,0.0125,0,0.02
+Czech Republic,Olomouc,I010,0.02,0,0,0.02
+Czech Republic,ZÁBŘEH,I011,0.02,0,0,0.02
+Ukraine,Kiev,U010,0.04,0.0225,0,0.02
+Russia,St. Petersburg,R020,0.02,0,0,0.02
+Vietnam,Vietnam,V010,0.23,0.125,0.1,0
